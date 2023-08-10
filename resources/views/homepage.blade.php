@@ -7,7 +7,7 @@
     <title>Homapage</title>
 </head>
 <body>
-    <h1> halaman ini akan diisi seputar kegiatan saya</h1>
+    <h4> halaman ini akan diisi seputar kegiatan saya</h4>
     
 </body>
 </html>

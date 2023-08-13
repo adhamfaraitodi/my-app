@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Homapage</title>
+    <title>Homepage</title>
 </head>
 <body>
     <h4> halaman ini akan diisi seputar kegiatan saya</h4>
